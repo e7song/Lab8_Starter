@@ -14,4 +14,4 @@ Service workers represent a way to do graceful degradation. A previous definitio
 
 ### pwa.png
 
-[pwa.png](pwa.png)
+[pwa.png](PWA.png)
