@@ -4,7 +4,7 @@
 
 Eric Song
 
-### Page URL
+### GitHub Pages URL
 
 https://e7song.github.io/Lab8_Starter/
 
